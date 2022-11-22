@@ -15,7 +15,7 @@ This is an API to be used for a social network application. Users can share thou
 
 ## Usage
 
-For use, clone via GitHub. After cloned, run npm start!
+For use, clone via GitHub. After cloned, run npm start! Walkthrough video: https://www.youtube.com/watch?v=k8Z9cP72AqI
 
 ## Install
 
